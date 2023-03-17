@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hajar Ezzarad</h1>
 
 
--👀 I'm a Student at **ALX Africa**
+ -👀 I'm a Student at **ALX Africa**
 
 - 🌱 I’m currently learning **Devlopment Web**
 
