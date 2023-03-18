@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Devlopment Web**
 
-- 📫 How to reach me **hajarezzarad2002@gmail.com**
+- 📫 How to reach me via **hajarezzarad2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
