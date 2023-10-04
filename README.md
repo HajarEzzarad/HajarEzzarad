@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/EzzaradHajar" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itsnicethat.com%2Fnews%2Ftwitter-x-logo-graphic-design-240723&psig=AOvVaw045HANxI1RNkgE8oj40KeS&ust=1696523378124000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDzoJ7o3IEDFQAAAAAdAAAAABAE" alt="ezzaradhajar" height="30" width="40" /></a>
+<a href="https://twitter.com/EzzaradHajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezzaradhajar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hajar-ezzarad-083041220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hajar ezzarad" height="30" width="40" /></a>
 </p>
 
