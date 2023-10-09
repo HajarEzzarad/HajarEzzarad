@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hajar Ezzarad</h1>
 
-- 👀I'm a Senior **Laravel/PHP** Developer
+- 👀I'm a Junior **Laravel/PHP** Developer
 
 - 🌱 I’m currently learning **development Web**
 
